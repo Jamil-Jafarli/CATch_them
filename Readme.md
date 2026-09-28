@@ -1,0 +1,1 @@
+Run on 60hz screen for better experience
